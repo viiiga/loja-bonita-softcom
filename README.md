@@ -1,0 +1,5 @@
+Foi um desafio muito grande lidar com esse projeto, porque eu náo tenho muitas experiências com desenvolvimento Mobile, porém eu sempretive interesse por desenvolvimento em geral e por conta disso topei o desafio. Algumas tecnologias eu sequer conhecia e precisei
+estudar e pesquisar sobre elas para conseguir elaborar alguma coisa, o projeto foi desenvolvido em KOTLIN, pelo ANDROID STUDIO, utilizando biblioteca ANDROIDX e JETPACK COMPOSE além de uma dependência específica chamada CONSTRAINT LAYOUT,
+gostei bastante da versatiliade do Kotlin e o Jetpack Compose deixa tudo mais fácil.Pensei em desistir umas quatro vezes durante os 5 dias que soube do desafio, mas na madrugada do dia anterior acabei por decidir continuar tentando. 
+De qualquer forma, apesar de querer muito a vaga,estou ansioso pelo feedback, para saber o que acharam do processo como um todo... Seria um privilégio imenso fazer parte de um Squad Softcom e ainda mais com Programação Mobile,
+ pois confesso que gostei do que vi das tecnologias rsrs. Agradeço a oportunidade desde já.
